@@ -60,4 +60,4 @@ There are many other metacharacters and ways of building patterns in RegEx, many
 + [RegEx Golf](http://regex.alf.nu/)
 + [RegExr](http://www.regexr.com/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/regex-basics-readme' title='RegEx Basics'>RegEx Basics</a> on Learn.co and start learning to code for free.</p>
+
